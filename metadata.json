@@ -1,0 +1,8 @@
+{
+  "name": "Plex Media Server Toggle",
+  "description": "Start/Stop Plex Media Server Service",
+  "uuid": "plextoggle@github.nunosusana.com",
+  "shell-version": [
+    "40"
+  ]
+}
