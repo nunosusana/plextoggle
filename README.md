@@ -2,9 +2,9 @@
 ## About
 This [Gnome](https://www.gnome.org/) Shell Extension enables the possibility to start and stop the Plex Media Server service with a toggle button. By default the server wilk always be stopped when logging in.
 
-![Screenshot](https://raw.githubusercontent.com/nunosusana/main/plextogglesc_off.png)
+![Screenshot](https://raw.githubusercontent.com/nunosusana/plextoggle/main/screenshots/sc_off.png)
 
-![Screenshot](https://raw.githubusercontent.com/nunosusana/main/plextogglesc_on.png)
+![Screenshot](https://raw.githubusercontent.com/nunosusana/plextoggle/main/screenshots/sc_on.png)
 
 ## Install
 - Download code zip from [GitHub](https://github.com/nunosusana/plextoggle) and extract it to the folder `/home/$USER/.local/share/gnome-shell/extensions`
